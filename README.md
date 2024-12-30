@@ -1,4 +1,4 @@
-# Tutorial Menggunakan Program
+# Tutorial Menggunakan Program AutoLISP
 
 ## Langkah-langkah:
 
